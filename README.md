@@ -4,6 +4,6 @@
 
 > `npm i`
 
-## Développement
+## Développement
 
 > `npm start`
